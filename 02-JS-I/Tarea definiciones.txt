@@ -1,0 +1,23 @@
+* Variables
+	es una forma de guardar algo para reutilizarlo, 
+	imaginemos que tienes una caja y le ingresas un papel con un numero,
+	digamos que el 7, ahora podemos decir que la caja almacena el 
+	valor 7 y lo podemos utilizar luego porque lo tenemos guardado.
+	existen tipos de variables como los Números (numeros enteros), 
+	str (texto) y boolean
+* Strings
+	los String es un tipo de variable que almacena valores en texto estos
+	se definen entre comillas simples o dobles.
+		var mifruta ("Manzana")
+
+* Funciones (argumentos, `return`)
+	las funciones son una forma de agrupar codigo para reutilizarlo sin 
+	la necesidad de volver a escribir el codigo otra vez y los argumentos son una 
+	manera de contener los valores de los parametros cuando los invocamos
+	la función.
+* Declaraciones `if`
+	lo entiendo como una función condicional, Si pasa A entonces ejecutamos el codigo
+
+* Valores booleanos (`true`, `false`)
+	los valores booleanos son respuestas que nos daran o un si o un no, good
+	
